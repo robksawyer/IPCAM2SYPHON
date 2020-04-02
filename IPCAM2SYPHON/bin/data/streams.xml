@@ -2,7 +2,8 @@
 <logger level="VERBOSE"/>
 <streams>
 
-	<stream address="http://81.8.151.136:88/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam0" username="" password="" display="1"/>
+	<stream address="http://192.168.0.6:8888" name="ipcam0" username="" password="" display="1"/>
+	<!-- <stream address="http://81.8.151.136:88/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam0" username="" password="" display="1"/>
 	<stream address="http://148.61.142.228/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam1" username="" password="" display="1"/>
 	<stream address="http://82.79.176.85:8081/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam2" username="" password="" display="1"/>
 	<stream address="http://213.77.33.2:8080/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam3" username="" password="" display="1"/>
@@ -20,6 +21,6 @@
 	<stream address="http://212.219.113.227/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam12" username="" password="" display="1"/>
 	<stream address="http://129.171.176.150/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam13" username="" password="" display="1"/>
 	<stream address="http://72.227.87.110/anony/mjpg.cgi" name="ipcam14" username="" password="" display="1"/>
-	<stream address="http://webcam.magic.iac.es/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam15" username="" password="" display="1"/>
+	<stream address="http://webcam.magic.iac.es/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam15" username="" password="" display="1"/> -->
 	
 </streams>
