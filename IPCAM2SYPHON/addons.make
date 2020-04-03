@@ -1,3 +1,4 @@
+ofxPoco
 ofxIpVideoGrabber
 ofxSyphon
 ofxXmlSettings
